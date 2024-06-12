@@ -5,7 +5,8 @@
 
 Here is the directory structure of the project:
 
-- `dataset/`: Directory containing datasets used for training, validation and testing.
+- `dataset/`: Directory containing datasets used for training, validation and testing [Animals Dataset](https://www.kaggle.com/datasets/antobenedetti/animals)
+- `test_image/`: Directory containing some images for demo
 - `main.ipynb`: Jupyter notebook used for visualizing data, running machine learning algorithms, demonstrating results and demo.
 - `run_knn&rf_NoPCA.py`: Python script to run K-Nearest Neighbors (KNN) and Random Forest (RF) algorithms without using PCA.
 - `run_knn&rf_PCA.py`: Python script to run K-Nearest Neighbors (KNN) and Random Forest (RF) algorithms using PCA.
