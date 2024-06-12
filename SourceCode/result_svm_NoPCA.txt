@@ -1,0 +1,57 @@
+orientations: 9
+kernel: linear, C: 0.01, accuracy train: 0.8824315297261189, accuracy val: 0.7128227960819234
+kernel: linear, C: 0.1, accuracy train: 0.9394026147533161, accuracy val: 0.6843276936776491
+kernel: linear, C: 1, accuracy train: 0.9875942360912301, accuracy val: 0.6745325022261799
+kernel: linear, C: 10, accuracy train: 1.0, accuracy val: 0.6638468388245771
+kernel: poly, C: 0.01, accuracy train: 0.204027101822693, accuracy val: 0.19590382902938558
+kernel: poly, C: 0.1, accuracy train: 0.4379234659795782, accuracy val: 0.38245770258236866
+kernel: poly, C: 1, accuracy train: 0.9956102681553584, accuracy val: 0.7266251113089938
+kernel: poly, C: 10, accuracy train: 1.0, accuracy val: 0.7702582368655387
+kernel: rbf, C: 0.01, accuracy train: 0.4040461876133219, accuracy val: 0.39492430988423866
+kernel: rbf, C: 0.1, accuracy train: 0.7649584884053822, accuracy val: 0.7070347284060552
+kernel: rbf, C: 1, accuracy train: 0.9601106975856475, accuracy val: 0.7778272484416741
+kernel: rbf, C: 10, accuracy train: 1.0, accuracy val: 0.7889581478183437
+kernel: sigmoid, C: 0.01, accuracy train: 0.6545471896173299, accuracy val: 0.6375779162956366
+kernel: sigmoid, C: 0.1, accuracy train: 0.7433915449947514, accuracy val: 0.7150489759572574
+kernel: sigmoid, C: 1, accuracy train: 0.7411012501192862, accuracy val: 0.723953695458593
+kernel: sigmoid, C: 10, accuracy train: 0.6304036644718007, accuracy val: 0.686553873552983
+----------------------------------------------------------------------------------------------------------------------------
+================================================================================================================================
+orientations: 18
+kernel: linear, C: 0.01, accuracy train: 0.9565798263193053, accuracy val: 0.6834372217275155
+kernel: linear, C: 0.1, accuracy train: 0.9999045710468556, accuracy val: 0.667853962600178
+kernel: linear, C: 1, accuracy train: 1.0, accuracy val: 0.667853962600178
+kernel: linear, C: 10, accuracy train: 1.0, accuracy val: 0.667853962600178
+kernel: poly, C: 0.01, accuracy train: 0.204027101822693, accuracy val: 0.19590382902938558
+kernel: poly, C: 0.1, accuracy train: 0.2189140185132169, accuracy val: 0.19902048085485308
+kernel: poly, C: 1, accuracy train: 0.9999045710468556, accuracy val: 0.713713268032057
+kernel: poly, C: 10, accuracy train: 1.0, accuracy val: 0.7582368655387355
+kernel: rbf, C: 0.01, accuracy train: 0.34392594713235997, accuracy val: 0.3308103294746215
+kernel: rbf, C: 0.1, accuracy train: 0.7608550434201736, accuracy val: 0.709706144256456
+kernel: rbf, C: 1, accuracy train: 0.9683175875560646, accuracy val: 0.7707034728406055
+kernel: rbf, C: 10, accuracy train: 1.0, accuracy val: 0.7747105966162066
+kernel: sigmoid, C: 0.01, accuracy train: 0.5967172440118332, accuracy val: 0.5890471950133571
+kernel: sigmoid, C: 0.1, accuracy train: 0.7541750167000668, accuracy val: 0.7212822796081924
+kernel: sigmoid, C: 1, accuracy train: 0.7784139707987403, accuracy val: 0.7306322350845948
+kernel: sigmoid, C: 10, accuracy train: 0.6999713713140567, accuracy val: 0.6843276936776491
+----------------------------------------------------------------------------------------------------------------------------
+================================================================================================================================
+orientations: 36
+kernel: linear, C: 0.01, accuracy train: 1.0, accuracy val: 0.6696349065004452
+kernel: linear, C: 0.1, accuracy train: 1.0, accuracy val: 0.6696349065004452
+kernel: linear, C: 1, accuracy train: 1.0, accuracy val: 0.6696349065004452
+kernel: linear, C: 10, accuracy train: 1.0, accuracy val: 0.6696349065004452
+kernel: poly, C: 0.01, accuracy train: 0.204027101822693, accuracy val: 0.19590382902938558
+kernel: poly, C: 0.1, accuracy train: 0.204027101822693, accuracy val: 0.19590382902938558
+kernel: poly, C: 1, accuracy train: 0.9998091420937112, accuracy val: 0.6936776491540516
+kernel: poly, C: 10, accuracy train: 1.0, accuracy val: 0.7341941228851291
+kernel: rbf, C: 0.01, accuracy train: 0.20469510449470368, accuracy val: 0.19679430097951914
+kernel: rbf, C: 0.1, accuracy train: 0.7491172821834144, accuracy val: 0.691006233303651
+kernel: rbf, C: 1, accuracy train: 0.9760473327607596, accuracy val: 0.7524487978628673
+kernel: rbf, C: 10, accuracy train: 1.0, accuracy val: 0.7582368655387355
+kernel: sigmoid, C: 0.01, accuracy train: 0.5343067086554061, accuracy val: 0.5280498664292075
+kernel: sigmoid, C: 0.1, accuracy train: 0.7522664376371792, accuracy val: 0.717720391807658
+kernel: sigmoid, C: 1, accuracy train: 0.8180169863536597, accuracy val: 0.7186108637577916
+kernel: sigmoid, C: 10, accuracy train: 0.7908197347075102, accuracy val: 0.672306322350846
+----------------------------------------------------------------------------------------------------------------------------
+================================================================================================================================
